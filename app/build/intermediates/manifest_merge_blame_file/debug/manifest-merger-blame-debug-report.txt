@@ -1,0 +1,117 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.breakingnews"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:5:5-79
+11-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:6:5-67
+12-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->[com.github.BirjuVachhani:locus-android:3.2.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\699d959cf3cbd69db4dbc71730fca8cc\jetified-locus-android-3.2.0\AndroidManifest.xml:11:5-81
+13-->[com.github.BirjuVachhani:locus-android:3.2.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\699d959cf3cbd69db4dbc71730fca8cc\jetified-locus-android-3.2.0\AndroidManifest.xml:11:22-78
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->[com.github.BirjuVachhani:locus-android:3.2.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\699d959cf3cbd69db4dbc71730fca8cc\jetified-locus-android-3.2.0\AndroidManifest.xml:12:5-79
+14-->[com.github.BirjuVachhani:locus-android:3.2.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\699d959cf3cbd69db4dbc71730fca8cc\jetified-locus-android-3.2.0\AndroidManifest.xml:12:22-76
+15    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+15-->[com.github.BirjuVachhani:locus-android:3.2.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\699d959cf3cbd69db4dbc71730fca8cc\jetified-locus-android-3.2.0\AndroidManifest.xml:13:5-85
+15-->[com.github.BirjuVachhani:locus-android:3.2.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\699d959cf3cbd69db4dbc71730fca8cc\jetified-locus-android-3.2.0\AndroidManifest.xml:13:22-82
+16
+17    <application
+17-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:8:5-31:19
+18        android:name="com.example.breakingnews.BaseApplication"
+18-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:9:9-40
+19        android:allowBackup="true"
+19-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:10:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.6.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\090984322b1427a70053b803d0c08a4b\core-1.6.0\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:11:9-43
+23        android:label="@string/app_name"
+23-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:12:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:13:9-54
+25        android:supportsRtl="true"
+25-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:14:9-35
+26        android:theme="@style/AppTheme" >
+26-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:15:9-40
+27        <activity android:name="com.example.breakingnews.ui.activities.SourceContentPage" />
+27-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:16:9-68
+27-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:16:19-66
+28        <activity android:name="com.example.breakingnews.ui.activities.AboutMePage" />
+28-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:17:9-63
+28-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:17:19-60
+29        <activity android:name="com.example.breakingnews.ui.SearchNewsPage" />
+29-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:18:9-55
+29-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:18:19-52
+30        <activity android:name="com.example.breakingnews.ui.activities.NewsIntroPage" >
+30-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:19:9-25:20
+30-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:19:19-62
+31            <intent-filter>
+31-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:20:13-24:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:21:17-69
+32-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:21:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:23:17-77
+34-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:23:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity android:name="com.example.breakingnews.ui.activities.MainActivity" />
+37-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:26:9-64
+37-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:26:19-61
+38
+39        <meta-data
+39-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:28:9-30:57
+40            android:name="preloaded_fonts"
+40-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:29:13-43
+41            android:resource="@array/preloaded_fonts" />
+41-->E:\Android-Projects\BreakingNews\app\src\main\AndroidManifest.xml:30:13-54
+42
+43        <activity
+43-->[com.github.BirjuVachhani:locus-android:3.2.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\699d959cf3cbd69db4dbc71730fca8cc\jetified-locus-android-3.2.0\AndroidManifest.xml:16:9-19:49
+44            android:name="com.birjuvachhani.locus.LocusActivity"
+44-->[com.github.BirjuVachhani:locus-android:3.2.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\699d959cf3cbd69db4dbc71730fca8cc\jetified-locus-android-3.2.0\AndroidManifest.xml:17:13-65
+45            android:launchMode="singleTask"
+45-->[com.github.BirjuVachhani:locus-android:3.2.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\699d959cf3cbd69db4dbc71730fca8cc\jetified-locus-android-3.2.0\AndroidManifest.xml:18:13-44
+46            android:theme="@style/LocusTheme" />
+46-->[com.github.BirjuVachhani:locus-android:3.2.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\699d959cf3cbd69db4dbc71730fca8cc\jetified-locus-android-3.2.0\AndroidManifest.xml:19:13-46
+47
+48        <receiver
+48-->[com.github.BirjuVachhani:locus-android:3.2.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\699d959cf3cbd69db4dbc71730fca8cc\jetified-locus-android-3.2.0\AndroidManifest.xml:21:9-28:20
+49            android:name="com.birjuvachhani.locus.LocationBroadcastReceiver"
+49-->[com.github.BirjuVachhani:locus-android:3.2.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\699d959cf3cbd69db4dbc71730fca8cc\jetified-locus-android-3.2.0\AndroidManifest.xml:22:13-77
+50            android:enabled="true"
+50-->[com.github.BirjuVachhani:locus-android:3.2.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\699d959cf3cbd69db4dbc71730fca8cc\jetified-locus-android-3.2.0\AndroidManifest.xml:23:13-35
+51            android:exported="false" >
+51-->[com.github.BirjuVachhani:locus-android:3.2.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\699d959cf3cbd69db4dbc71730fca8cc\jetified-locus-android-3.2.0\AndroidManifest.xml:24:13-37
+52            <intent-filter>
+52-->[com.github.BirjuVachhani:locus-android:3.2.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\699d959cf3cbd69db4dbc71730fca8cc\jetified-locus-android-3.2.0\AndroidManifest.xml:25:13-27:29
+53                <action android:name="com.birjuvachhani.locus.LocationProvider.LocationBroadcastReceiver.action.PROCESS_UPDATES" />
+53-->[com.github.BirjuVachhani:locus-android:3.2.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\699d959cf3cbd69db4dbc71730fca8cc\jetified-locus-android-3.2.0\AndroidManifest.xml:26:17-132
+53-->[com.github.BirjuVachhani:locus-android:3.2.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\699d959cf3cbd69db4dbc71730fca8cc\jetified-locus-android-3.2.0\AndroidManifest.xml:26:25-129
+54            </intent-filter>
+55        </receiver>
+56
+57        <service
+57-->[androidx.room:room-runtime:2.3.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\8bb1362b35bae610158bf1d110dd2070\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+58            android:name="androidx.room.MultiInstanceInvalidationService"
+58-->[androidx.room:room-runtime:2.3.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\8bb1362b35bae610158bf1d110dd2070\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+59            android:directBootAware="true"
+59-->[androidx.room:room-runtime:2.3.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\8bb1362b35bae610158bf1d110dd2070\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+60            android:exported="false" />
+60-->[androidx.room:room-runtime:2.3.0] C:\Users\ehsan\.gradle\caches\transforms-2\files-2.1\8bb1362b35bae610158bf1d110dd2070\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+61    </application>
+62
+63</manifest>

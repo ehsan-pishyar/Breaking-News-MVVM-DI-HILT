@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_me_page.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\layout\\activity_about_me_page.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\font_merriweather_sans_bold.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\font\\merriweather_sans_bold.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_business_black.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\drawable\\ic_business_black.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\drawable\\ic_home_black.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bookmark_black.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\drawable\\ic_bookmark_black.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_news_intro_page.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\layout\\activity_news_intro_page.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_black.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\drawable\\ic_person_black.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\font_libre_franklin.ttf.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\font\\libre_franklin.ttf"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sources.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\layout\\fragment_sources.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\font_chomsky.otf.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\font\\chomsky.otf"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ehsan_pishyar.webp.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\mipmap-hdpi\\ehsan_pishyar.webp"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_search_news.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\layout\\fragment_search_news.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_sources_row_card.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\layout\\list_sources_row_card.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\font_libre_franklin_bold.ttf.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\font\\libre_franklin_bold.ttf"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_article.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\layout\\fragment_article.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_about_image.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\drawable\\frame_about_image.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_about_header.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\drawable\\frame_about_header.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_w.webp.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\mipmap-hdpi\\w.webp"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_black.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\drawable\\ic_search_black.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bookmark.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\drawable\\ic_bookmark.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share_black.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\drawable\\ic_share_black.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_source_news_contents.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\layout\\fragment_source_news_contents.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_tab_items.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\menu\\bottom_tab_items.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_saved_news.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\layout\\fragment_saved_news.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\font_merriweather_bold.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\font\\merriweather_bold.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_main_row_card.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\layout\\list_main_row_card.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\font_merriweather.ttf.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\font\\merriweather.ttf"
+    },
+    {
+        "merged": "E:\\Android-Projects\\BreakingNews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Android-Projects\\BreakingNews\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

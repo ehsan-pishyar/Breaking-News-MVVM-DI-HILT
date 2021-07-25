@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_something">Search Something…</string>
+    <string name="not_found">404</string>
+    <string name="news_image">news image</string>
+</resources>
